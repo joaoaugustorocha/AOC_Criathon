@@ -9,5 +9,5 @@ Este trabalho apresenta o desenvolvimento do jogo didático de tabuleiro Mega Co
 Alunos:
 Nicolas David da Cruz Santos  
 Davi de Oliveira Custódio  
-João Augusto Paixão Rocha 
+João Augusto Paixão Rocha  
 Bernardo Flickr de Souza
